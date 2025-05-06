@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ToRiTheBlackCat&icon=0&color=4)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/ToRiTheBlackCat/ToRiTheBlackCat/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
