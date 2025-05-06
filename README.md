@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=ToRiTheBlackCat&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/ToRiTheBlackCat/ToRiTheBlackCat/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/ToRiTheBlackCat/ToRiTheBlackCat/blob/output/github-snake.svg)
 
 
 
